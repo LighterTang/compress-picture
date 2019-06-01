@@ -8,7 +8,7 @@ import java.io.IOException;
  * @Title: ThumbnailatorUtil
  * @Package: com.test.image
  * @Description: google Thumbnailator 测试
- * @Author: tangquanbin
+ * @Author: monkjavaer
  * @Data: 2019/2/22 14:07
  * @Version: V1.0
  */

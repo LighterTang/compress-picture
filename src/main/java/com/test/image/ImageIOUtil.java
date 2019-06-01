@@ -12,10 +12,10 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
- * @Title: ImageIOUtil
+ * @Title: ImageIOUtilf
  * @Package: com.test.image
  * @Description: ImageIO test
- * @Author: tangquanbin
+ * @Author: monkjavaer
  * @Data: 2019/2/22 16:37
  * @Version: V1.0
  */

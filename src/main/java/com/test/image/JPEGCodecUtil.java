@@ -17,7 +17,7 @@ import java.io.IOException;
  * @Title: JPEGCodecUtil
  * @Package: com.test.image
  * @Description: JPEGCodec test
- * @Author: tangquanbin
+ * @Author: monkjavaer
  * @Data: 2019/2/22 16:13
  * @Version: V1.0
  */
